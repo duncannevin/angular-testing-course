@@ -21,11 +21,8 @@ export class HomeComponent implements OnInit {
     }
 
     ngOnInit() {
-
       this.reloadCourses();
-
     }
-
 
     reloadCourses() {
 
