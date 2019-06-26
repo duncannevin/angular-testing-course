@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/duncannevin/angular-testing-course.svg?branch=master)](https://travis-ci.org/duncannevin/angular-testing-course)
 ## Angular Testing Course
 
 This repository contains the code of the [Angular Testing Course](https://angular-university.io/course/angular-testing-course).
